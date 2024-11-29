@@ -1,0 +1,10 @@
+
+# Performance Summary
+
+## Metrics
+- Accuracy: 98.5%
+- Sensitivity: 98.0%
+- Specificity: 99.0%
+
+## Observations
+- The hybrid model outperformed baseline methods on synthetic and real datasets.
